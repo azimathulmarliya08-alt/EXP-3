@@ -1,50 +1,87 @@
-# EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
-
- 
+# EXP-1
+EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
- To control the status of the given lamp by using two–way switches. 
+a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
+
 APPARATUS REQUIRED:
+S.No.	Components	Range	Quantity
+1	Resistor	1kΩ	3
+2	Voltmeter (DC)	0-30V	3
+3	Ammeter (DC)	(0-200)mA	3
+4	Bread Board		1
+5	Regulated Power Supply	(0-30)V	1
+6	Connecting wires		As required
 
-S. No.
-Name of the apparatus	
-Range / Type	
-Quantity
-
-1	Incandescent Lamp	60W	1 No.
-2	Lamp Holder	Pendent Type	1 No.
-3	SPDT Switch	230V,5A	2 Nos
-4	Wires	1/18”	As per requirement
-5	P.V.C Pipe	1/4"	As per requirement
-6	Wooden Board	-	1 No.
-7	Round block	-	1 No.
-
-
-Theory:
-•	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
-•	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
-•	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
-•	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
-•	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
-•  Place the accessories on the wiring board as per the circuit diagram.
-•  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
-•	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
-•  Upper point of SPDT switch 1 is connected to the lower point of SPDT
-switch2.
-•  Lower point of SPDT 1 is connected to the upper point SPDT switch2.
-•	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
-•  Another end of lamp holder is connected to neutral line.
-•  Screw the accessories on the board and switch on the supply.
-•  Circuit is tested for all possible combination of switch positions.
+THEORY:
+KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+KCL:
+Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+PROCEDURE:
+a.   KVL:
+1.   Connect as per the circuit diagram.
+2.   Check if the RPS voltage is set to zero voltage.
+3.   Check all the meters for null position.
+4.   Switch on the RPS.
+5.   Set the input voltage to a value between 0V to 30V.
+6.   Record the voltage values shown in the voltmeter connected across each resistor.
+7.   Take readings for different values of input voltage and tabulate them.
 
-Tabulation:2
+
+b.  KCL:
+1.   Connect as per the circuit diagram.
+2.   Check if the RPS voltage is set to zero voltage.
+3.   Check all the meters for null position.
+4.   Switch on the RPS.
+5.   Set the input voltage to a value between 0V to 30V.
+6.   Record the voltage values shown in the ammeter connected to each resistor.
+7.   Take readings for different values of input voltage and tabulate them. 
+CIRCUIT DIAGRAM:
+
+CIRCUIT DIAGRAM:
+
+
+a.   KVL:
+ <img width="1600" height="1519" alt="image" src="https://github.com/user-attachments/assets/6d22622e-055c-4da1-8489-3eb9c4060cc2" />
+
+<img width="1048" height="530" alt="image" src="https://github.com/user-attachments/assets/8c7c2f7d-5d15-42f3-8f9a-767b2fd81074" />
+
+
+b.  KCL:
+ <img width="1600" height="1388" alt="image" src="https://github.com/user-attachments/assets/49ce7559-b0fd-47ca-bef2-521634f4b1a6" />
+
+<img width="1010" height="501" alt="image" src="https://github.com/user-attachments/assets/311b30d0-40ac-4f66-af9a-cb9ec462ff78" />
+
+
+
+Calculation:
+
+a.   KVL:
+ 
+<img width="1448" height="1148" alt="image" src="https://github.com/user-attachments/assets/d4adb92a-db06-4f68-83ab-036b407ed948" />
+
+
+b.  KCL:
+
+<img width="934" height="1600" alt="image" src="https://github.com/user-attachments/assets/bf332f89-bedf-4ef9-a900-d5f31e1dc7d7" />
+
+<img width="1434" height="1599" alt="image" src="https://github.com/user-attachments/assets/6cadcdac-5f1f-4b38-9335-6561b15d580c" />
+
+
+
+Tabulation:
+
+a.   KVL:
+ 
+<img width="1600" height="1003" alt="image" src="https://github.com/user-attachments/assets/24e4fb65-0ead-4696-b785-aee67ba3670c" />
+
+b.  KCL:
+<img width="1600" height="1001" alt="image" src="https://github.com/user-attachments/assets/a8ebe1a0-b0ec-4b43-9e99-6fa251329106" />
+
+
 
 RESULT:
-Thus the staircase wiring is connected and tested.
+
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
